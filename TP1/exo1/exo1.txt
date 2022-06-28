@@ -1,0 +1,11 @@
+Exo.1:
+
+3/ => Ce programme  affiche le resultat de la somme 7+2 qui est 9.
+
+4/ => Je remarque que le programme ajoute une saute de ligne apres l'affichage de la chene de caractere.
+
+6/ => Maintenent ce programme permet a l'utilisateur d'entrer deux valeurs a et b qui sont des entiers,
+pour faire une addition a+b et afficher le resultat.
+
+   => Le role de l'instruction readln:
+   Elle permet a l'utilisateur d'entrer une valeur qui sera utilisee par le programme.

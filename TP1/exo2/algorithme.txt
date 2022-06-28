@@ -1,0 +1,10 @@
+Algorithme Cercle;
+Var Diam, A, P: Reel;
+Debut
+	Ecrire('Taper le diametre: ')
+	Lire(Diam)
+	A <-- 3.14*(Diam/2)*(Diam/2)
+	P <-- 2*3.14*(Diam/2)
+	Ecrire('L`aire = ', A)
+	Ecrire('Le perimetre: ', P)
+Fin.
